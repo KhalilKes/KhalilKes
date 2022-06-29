@@ -30,3 +30,7 @@
 | English (en)  | Professional               |
 | French (fr)   | Professional |
 | Arabic        | Native language  |                                                         |
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=khalilkes&show_icons=true&theme=radical)
+![github most lang](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilkes&layout=compact)
