@@ -1,11 +1,5 @@
 # Hello 👌🏼 !!
 
- `class Bio{ `
-    `public static void main(String[] args){ `
-         `System.out.println("=======Welcome========");`
-    `}` 
-`}`
-
 ##  How to reach me !
  * 🌐  Visit [my porfolio website](https://portfolio-2022-opkrov4d2-khalilkes.vercel.app/) for complete background and contact.
  * ✉️   Email khalil.kessa@gmail.com
@@ -32,5 +26,4 @@
 | Arabic        | Native language  |                                                         |
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=khalilkes&show_icons=true&theme=radical)
 ![github most lang](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilkes&layout=compact)
